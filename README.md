@@ -29,7 +29,7 @@ truck<br>
 
 **🛠️ Tech Stack**
 
-Python 3.9+<br>
+Python 3.13.7<br>
 Streamlit – Web interface<br>
 TensorFlow / Keras – Model loading & inference<br>
 NumPy – Image preprocessing<br>
@@ -37,17 +37,19 @@ Matplotlib – Probability visualization<br>
 Pillow (PIL) – Image handling<br>
 
 **⚙️ Installation & Setup**
-1️⃣ Clone the Repository
-git clone https://github.com/your-username/cifar10-streamlit-classifier.git
-cd cifar10-streamlit-classifier
-2️⃣ Create a Virtual Environment (Recommended)
-python -m venv venv
-source venv/bin/activate      # Linux / macOS
-venv\Scripts\activate         # Windows
-3️⃣ Install Dependencies
-pip install -r requirements.txt
-▶️ Run the Application
-streamlit run app.py
+
+
+1️⃣ Clone the Repository<br>
+git clone https://github.com/your-username/cifar10-streamlit-classifier.git<br>
+cd cifar10-streamlit-classifier<br>
+2️⃣ Create a Virtual Environment (Recommended)<br>
+python -m venv venv<br>
+source venv/bin/activate      # Linux / macOS<br>
+venv\Scripts\activate         # Windows<br>
+3️⃣ Install Dependencies<br>
+pip install -r requirements.txt<br>
+▶️ Run the Application<br>
+streamlit run app.py<br>
 
 **🧪 How It Works**
 
