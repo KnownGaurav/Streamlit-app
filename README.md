@@ -1,4 +1,4 @@
-![Streamlit-UI](Streamlit-UI.png)
+![Streamlit-UI](Streamlit-UI.jpg)
 
 
 **🖼️ CIFAR-10 Image Classifier (Streamlit)**
@@ -7,34 +7,34 @@ A Streamlit-based web application that uses a trained CNN model on the CIFAR-10 
 
 **🚀 Features**
 
-📤 Upload images (.jpg, .png recommended)
-🧠 CNN model trained on CIFAR-10 dataset
-📊 Horizontal bar chart showing class probabilities
-⚡ Fast, interactive Streamlit UI
-🔍 Displays confidence for all 10 classes
+📤 Upload images (.jpg, .png recommended)<br>
+🧠 CNN model trained on CIFAR-10 dataset<br>
+📊 Horizontal bar chart showing class probabilities<br>
+⚡ Fast, interactive Streamlit UI<br>
+🔍 Displays confidence for all 10 classes<br>
 
 **🧠 CIFAR-10 Classes**
 
 The model predicts one of the following classes:
-airplane
-automobile
-bird
-cat
-deer
-dog
-frog
-horse
-ship
-truck
+airplane<br>
+automobile<br>
+bird<br>
+cat<br>
+deer<br>
+dog<br>
+frog<br>
+horse<br>
+ship<br>
+truck<br>
 
 **🛠️ Tech Stack**
 
-Python 3.9+
-Streamlit – Web interface
-TensorFlow / Keras – Model loading & inference
-NumPy – Image preprocessing
-Matplotlib – Probability visualization
-Pillow (PIL) – Image handling
+Python 3.9+<br>
+Streamlit – Web interface<br>
+TensorFlow / Keras – Model loading & inference<br>
+NumPy – Image preprocessing<br>
+Matplotlib – Probability visualization<br>
+Pillow (PIL) – Image handling<br>
 
 **⚙️ Installation & Setup**
 1️⃣ Clone the Repository
@@ -51,12 +51,12 @@ streamlit run app.py
 
 **🧪 How It Works**
 
-User uploads an image using Streamlit
-Image is resized to 32×32 pixels
-Pixel values are normalized to [0, 1]
-Image reshaped to (1, 32, 32, 3)
-Pre-trained CIFAR-10 CNN predicts probabilities
-Results are displayed as a horizontal bar chart
+User uploads an image using Streamlit<br>
+Image is resized to 32×32 pixels<br>
+Pixel values are normalized to [0, 1]<br>
+Image reshaped to (1, 32, 32, 3)<br>
+Pre-trained CIFAR-10 CNN predicts probabilities<br>
+Results are displayed as a horizontal bar chart<br>
 
 Author: Gaurav
 KnownGaurav
