@@ -1,4 +1,6 @@
 ![Streamlit-UI](Streamlit-UI.jpg)
+![Streamlit-UI](UI-2.jpg)
+![Streamlit-UI](UI-3.jpg)
 
 
 **🖼️ CIFAR-10 Image Classifier (Streamlit)**
